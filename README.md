@@ -8,3 +8,5 @@ This tutorial code used to explain Spring JDBC concepts:
 * add bean for Spring wrappers over Java JDBC drivers same as **JdbcTemplate**, **NamedParameterJdbcTemplate**, **SimpleJdbcInsert**.
 * test-case for search and insert new record with data access functionalities
 * add CustomSqlErrorCode translator with Spring **SQLErrorCodeSQLExceptionTranslator** parent class.
+
+_TIP:_ Database DDL and DML files are added to **db_files** folder
